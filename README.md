@@ -1,5 +1,5 @@
 # DelTemp
-Lazy way to delete temp, windows.old, recycle bin, dumps, logs. Also starts Disk Cleanup at the end
+эта прога чисто для меня, бойтесь
 ### What exactly is being deleted?
 ```
 Recycle bin
