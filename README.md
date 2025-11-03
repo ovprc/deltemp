@@ -1,6 +1,5 @@
 # DelTemp
 эта прога чисто для меня, бойтесь
-### What exactly is being deleted?
 ```
 Recycle bin
 Windows.old
